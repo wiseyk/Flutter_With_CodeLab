@@ -22,8 +22,7 @@ Open Android Studio (Preferably 21)
 Project Opens:
 	1) Click "View" -> "Tool Windows" -> "Project"
 	2) A SideBar opens. On the top left Corner -> Select "Project"
-	3) All your Dart code is at lib\main.dart
-	
+
 Create your own Android Emulator(i.e. VM of any Android Version)
 	Go tot the AVD Manager with: Click "View" -> "Tool Windows" -> "Device Manager"	
 	https://developer.android.com/studio/run/managing-avds
