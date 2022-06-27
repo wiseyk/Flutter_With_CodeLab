@@ -25,7 +25,7 @@ Project Opens:
 	2) A SideBar opens. On the top left Corner -> Select "Project"
 
 Create your own Android Emulator(i.e. VM of any Android Version)
-	Go tot the AVD Manager with: Click "View" -> "Tool Windows" -> "Device Manager"	
+	Go to the AVD Manager with: Click "View" -> "Tool Windows" -> "Device Manager"	
 	https://developer.android.com/studio/run/managing-avds
 	When you successfully launch your Emulator, switch it off (by the dummy power button in the side Toolbar) and then close the Emulator.
 	In the Device Manager, for any existing Emulator, we have other options like Restart, Wipe Data, Duplicate etc.
